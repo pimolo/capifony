@@ -24,9 +24,9 @@ set :update_vendors, true
 
 <hr />
 
-## Shared Vendors
+## Copying Vendors (recommended)
 
-If you want to share the vendor folders between deployments you can add the following
+If you want to copy the vendor folders between deployments you can add the following
 to your configuration:
 
 {% highlight ruby %}
